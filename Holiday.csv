@@ -1,26 +1,24 @@
 Date,Weekday,Name,Type
-2018-01-01,Monday,New Year's Day,National holiday
-2018-01-06,Saturday,Epiphany,National holiday
-2018-02-19,Monday,Green Monday,National holiday
-2018-03-20,Tuesday,March Equinox,Season
-2018-03-25,Sunday,Daylight Saving Time starts,Clock change/Daylight Saving Time
-2018-03-25,Sunday,Greek Independence Day,National holiday
-2018-04-01,Sunday,Cyprus National Holiday,National holiday
-2018-04-06,Friday,Good Friday (Orthodox),"National holiday, Orthodox"
-2018-04-07,Saturday,Holy Saturday (Orthodox),"Observance, Orthodox"
-2018-04-08,Sunday,Easter Sunday (Orthodox),"Observance, Orthodox"
-2018-04-09,Monday,Easter Monday (Orthodox),"National holiday, Orthodox"
-2018-04-10,Tuesday,Orthodox Easter Tuesday (banks only),Bank holiday
-2018-05-01,Tuesday,Labour Day/May Day,National holiday
-2018-05-28,Monday,Orthodox Pentecost Monday,"National holiday, Orthodox"
-2018-06-21,Thursday,June Solstice,Season
-2018-08-15,Wednesday,Assumption of the Virgin Mary,National holiday
-2018-09-23,Sunday,September Equinox,Season
-2018-10-01,Monday,Cyprus Independence Day,National holiday
-2018-10-28,Sunday,Daylight Saving Time ends,Clock change/Daylight Saving Time
-2018-10-28,Sunday,Ochi Day,National holiday
-2018-12-22,Saturday,December Solstice,Season
-2018-12-24,Monday,Christmas Eve,Observance
-2018-12-25,Tuesday,Christmas Day,National holiday
-2018-12-26,Wednesday,Boxing Day,National holiday
-2018-12-31,Monday,New Year's Eve,Observance
+01/01/2018,Monday,New Year's Day,National holiday
+06/01/2018,Saturday,Epiphany,National holiday
+19/02/2018,Monday,Green Monday,National holiday
+20/03/2018,Tuesday,March Equinox,Season
+25/03/2018,Sunday,Greek Independence Day,National holiday
+01/04/2018,Sunday,Cyprus National Holiday,National holiday
+06/04/2018,Friday,Good Friday (Orthodox),"National holiday, Orthodox"
+07/04/2018,Saturday,Holy Saturday (Orthodox),"Observance, Orthodox"
+08/04/2018,Sunday,Easter Sunday (Orthodox),"Observance, Orthodox"
+09/04/2018,Monday,Easter Monday (Orthodox),"National holiday, Orthodox"
+10/04/2018,Tuesday,Orthodox Easter Tuesday (banks only),Bank holiday
+01/05/2018,Tuesday,Labour Day/May Day,National holiday
+28/05/2018,Monday,Orthodox Pentecost Monday,"National holiday, Orthodox"
+21/06/2018,Thursday,June Solstice,Season
+15/08/2018,Wednesday,Assumption of the Virgin Mary,National holiday
+23/09/2018,Sunday,September Equinox,Season
+01/10/2018,Monday,Cyprus Independence Day,National holiday
+28/10/2018,Sunday,Ochi Day,National holiday
+22/12/2018,Saturday,December Solstice,Season
+24/12/2018,Monday,Christmas Eve,Observance
+25/12/2018,Tuesday,Christmas Day,National holiday
+26/12/2018,Wednesday,Boxing Day,National holiday
+31/12/2018,Monday,New Year's Eve,Observance
